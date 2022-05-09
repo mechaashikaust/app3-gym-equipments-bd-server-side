@@ -1,6 +1,6 @@
-# Welcome to Ashik Gym Center!
+# Welcome to Ashik Gym Equipments !
 
-Hi! I'm **Md. ASHIKUR RAHMAN**. Here I created a website which was about **Ashik Gym Equipments**.
+Hi! I'm **Md. ASHIKUR RAHMAN**. Here I created a website which was about **Gym Equipments**.
 
 # Website Live Link
 
