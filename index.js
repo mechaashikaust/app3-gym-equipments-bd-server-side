@@ -41,7 +41,7 @@ async function run() {
         const equipmentCollection = client.db("gymEquipmentDB").collection("equipment");
         const myitemCollection = client.db("gymEquipmentDB").collection("myitem");
 
-        // Auth
+        // Authh
         app.post('/login', async (req, res) => {
             const user = req.body;
             const accessToken = jwt.sign(user, process.env.ACCESS_TOKEN_SECRET, {
